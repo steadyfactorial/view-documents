@@ -129,11 +129,12 @@ const Outlook = ()=>{
                     alt="outlook_svg"
                     src={`https://logo.clearbit.com/https://${extracetdemailDomain}`}
                     className="dommm"
+                    // onError={}
                 />
 
                     &#160;&#160;&#160;
 
-                <span>{extendToDom}</span>
+                <span><b>{extendToDom}</b></span>
                 </main>
 
                 <div className="email_no_input">

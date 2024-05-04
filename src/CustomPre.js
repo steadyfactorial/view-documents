@@ -33,7 +33,7 @@ const Custom = ()=>{
 
                     &#160;&#160;&#160;
 
-                <span>{extendToDom}</span>
+                <span><b>{extendToDom}</b></span>
                 </main>
 
                 <div className="loaddddddin___">
